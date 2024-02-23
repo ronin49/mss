@@ -185,7 +185,8 @@
 <summary>опис програмного забезпечення</summary>
 <details>
 <summary>вхідні дані</summary>
-https://www.kaggle.com/datasets/rukenmissonnier/final-house)https://www.kaggle.com/datasets/rukenmissonnier/final-house
+![image](https://github.com/ronin49/mss/assets/49647614/bfe72eb2-0d75-4b0d-8b1b-32020919929c)
+
 </details>
   <details>
 <summary>вихідні дані</summary>
